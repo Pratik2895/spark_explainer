@@ -1,0 +1,13 @@
+# SparkExplainer — Python Dependencies
+#
+# The library uses only PySpark and the Python standard library.
+# No external packages are required.
+#
+# Install PySpark (if running outside Databricks):
+#   pip install pyspark>=3.5.0
+#
+# On Databricks, PySpark is pre-installed — no pip install needed.
+#
+# Python 3.10+ recommended.
+
+pyspark>=3.5.0
